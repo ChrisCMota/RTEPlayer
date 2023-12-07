@@ -1,0 +1,8 @@
+com/cct/rteplayer/RTEPlayer.class
+com/cct/rteplayer/controllers/MenuController.class
+com/cct/rteplayer/services/RideService.class
+com/cct/rteplayer/models/Ride.class
+com/cct/rteplayer/models/User.class
+com/cct/rteplayer/models/Movie.class
+com/cct/rteplayer/controllers/UserController.class
+com/cct/rteplayer/services/UserService.class
