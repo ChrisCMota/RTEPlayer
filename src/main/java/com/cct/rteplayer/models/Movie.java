@@ -6,7 +6,7 @@ package com.cct.rteplayer.models;
 
 /**
  *
- * @author israel
+ * @author ChrisCMota
  */
 public class Movie {
     private String name;
