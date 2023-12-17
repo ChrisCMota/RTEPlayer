@@ -6,7 +6,7 @@ package com.cct.rteplayer.models;
 
 /**
  *
- * @author ChrisCMota
+ * @author Marcus, 2021304
  */
 public class User {
 
