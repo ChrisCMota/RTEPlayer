@@ -13,7 +13,7 @@ import java.util.Map;
 
 /**
  *
- * @author ChrisCMota
+ * @author Marcus, 2021304
  */
 public class UserController {
     

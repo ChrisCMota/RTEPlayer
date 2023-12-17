@@ -13,7 +13,7 @@ import org.junit.jupiter.api.Test;
 
 /**
  *
- * @author ChrisCMota
+ * @author Christian, 2021274
  */
 public class UserServiceTest {
     

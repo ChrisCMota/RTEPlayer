@@ -8,7 +8,7 @@ import java.time.LocalDateTime;
 
 /**
  *
- * @author ChrisCMota
+ * @author Marcus, 2021304
  */
 public class Ride {
     private String userEmail;
