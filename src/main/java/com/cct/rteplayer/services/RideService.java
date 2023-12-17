@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  *
- * @author ChrisCMota
+ * @author Christian, 2021274
  */
 public class RideService {
     
