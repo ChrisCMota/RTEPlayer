@@ -21,7 +21,7 @@ import java.util.Set;
 
 /**
  *
- * @author ChrisCMota
+ * @author Christian, 2021274
  */
 public class RTEPlayer {
     
